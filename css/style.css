@@ -1,0 +1,59 @@
+#header{
+color:#FF0000;
+text-align:center;
+padding-bottom:20px;
+padding-top: 10px;
+background-image: url(../header1.png);
+background-size: contain;
+background-repeat: no-repeat;
+background-size: cover;
+background-size: 100vw
+display: block;
+}
+
+#header ~  div{
+  margin-top:80px;
+}
+
+div.player-info{
+  background:#5fa6d8;
+  border:1px solid black
+  padding-top: 5px;
+  padding-left:15px;
+  padding-right:20px;
+  padding-bottom: 30px;
+  width:900px;
+
+}
+
+body{
+ background: #2d7db5;
+}
+
+table {
+  color: white;
+}
+
+.player-info{
+ border: 3px double black;
+}
+
+a:visited{
+  color:red;
+}
+
+a:hover{
+  color: black;
+}
+
+h2,h3{
+  font-family:Arial, sans-serif;
+}
+
+h3{
+  font-size: 24px;
+}
+
+p{
+  font-family:'Roboto slab', serif;
+}
